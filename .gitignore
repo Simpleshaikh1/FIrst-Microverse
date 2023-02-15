@@ -1,2 +1,2 @@
-nodemodules
-test
+/node_modules
+/test.md
