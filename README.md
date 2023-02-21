@@ -29,65 +29,67 @@
 ### 6. Installation of Live Server plugging in Visual Studio Code
 ### 7. Linters
 
-## To get a local copy up and running, follow these steps:
+### To get a local copy up and running, follow these steps:
 
 ## Prerequisites:
 
-### In order to run this project you need: Visual studio Code, Internet, GitHub account.
+#### In order to run this project you need: Visual studio Code, Internet, GitHub account.
 
 ## Setup:
 
-### Clone this repository to your desired folder: Clone this repo with git clone command.
+#### Clone this repository to your desired folder: Clone this repo with git clone command.
 
 ## Install:
 
-### Install this project with: NPM install, Create a .github/workflow folder and add linter.yml in it
-### add .hintrc file, also add .stylelintrc.json file.
+#### Install this project with: NPM install, Create a .github/workflow folder and add linter.yml in it
+#### add .hintrc file, also add .stylelintrc.json file.
 
 ## Usage:
 
-### To run the project: right click on your html environment and click on run with live server.
+#### To run the project: right click on your html environment and click on run with live server.
 
 ## Run Linter tests:
 
-### To run linter tests, run the following command: npx stylelint "**/*.{css,scss}" 
+#### To run linter tests, run the following command: npx stylelint "**/*.{css,scss}" 
 
 ## Deployment
-### You can deploy this project using: Host services
+#### You can deploy this project using: Host services
 
 
 
 # 👥 Authors
 
-### Toyyib Omobolaji Bello
+#### Toyyib Omobolaji Bello
 
 # 👤 Author1
 
-### GitHub: https://github.com/Simpleshaikh1
+#### GitHub: https://github.com/Simpleshaikh1
 
 
 
 # 🔭 Future Features
 
-###  A button that pop up a message for the user
-### A modal page
-### The use will be able to type in the text of their choice
+####  A button that pop up a message for the user
+#### A modal page
+#### The use will be able to type in the text of their choice
 
 
 # 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+#### Contributions, issues, and feature requests are welcome!
 
 
 # ⭐️ Show your support
 
+#### I urge you to check my project and support it. Thank you
+
 
 # 🙏 Acknowledgments
 
-## I would like to thank Microverse and my code reviewer for making me a better programmer
+#### I would like to thank Microverse and my code reviewer for making me a better programmer
 
 
 
 
-📝 License
-This project is MIT licensed.
+## 📝 License
+### This project is MIT licensed.
 
