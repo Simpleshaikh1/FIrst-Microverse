@@ -57,12 +57,9 @@
 
 
 
-# 👥 Authors
+# 👥 Author
 
 #### Toyyib Omobolaji Bello
-
-# 👤 Author1
-
 #### GitHub: https://github.com/Simpleshaikh1
 
 
